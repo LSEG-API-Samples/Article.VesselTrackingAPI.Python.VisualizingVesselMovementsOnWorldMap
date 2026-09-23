@@ -1,4 +1,4 @@
-# Vessel Movement Visualization
+# Visualizing Vessel Movements on a World Map with the Vessel Tracking API and Python
 
 This project retrieves historical vessel positions from the Vessel Tracking API and visualizes the route as a static map and animated GIF.
 
