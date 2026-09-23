@@ -4,3 +4,4 @@ matplotlib==3.10.0
 Cartopy==0.24.1
 Pillow==11.1.0
 IPython==8.31.0
+numpy==2.5.3
