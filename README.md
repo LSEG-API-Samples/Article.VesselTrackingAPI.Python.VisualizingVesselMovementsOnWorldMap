@@ -1,4 +1,4 @@
-# [Visualizing Vessel Movements on a World Map with the Vessel Tracking API and Python](https://developers.lseg.com/en/article-catalog/article/visualizing-vessel-movements-on-a-world-map-with-the-vessel-tracking-api-and-python)
+# [Visualizing Historical Vessel Positions on a World Map with the Vessel Tracking API and Python](https://developers.lseg.com/en/article-catalog/article/vessel-tracking-part-1-visualizing-historical-vessel-positions)
 
 This project retrieves historical vessel positions from the Vessel Tracking API and visualizes the route as a static map and animated GIF.
 
@@ -36,7 +36,7 @@ config.ini
 
 ## Run the notebook
 
-Open `vessel-movement-visualization.ipynb` and run its cells in order.
+Open `vessel-position-visualization.ipynb` and run its cells in order.
 
 The notebook will:
 
